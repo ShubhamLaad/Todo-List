@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color:#7B1FA2;
+  
+}
+.mybtn{
+  background-color:red;
+  border:none;
+  border-radius:50px;
+  
+}
+.clsNameForm{
+  width:100%;
+  border:2px solid black;
+  border-radius:15px;
+  background-color: #61cbe9;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+}
+.clsToDolist{
+  width:100%;
+  border:2px solid black;
+  border-radius:15px;
+  background-color: #61cbe9;
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+.mydemo {
+  text-align:center;
+  
+  width:500px;
+  background-color: #9C27B0;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #9C27B0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
